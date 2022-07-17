@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
-$(".fblogin").click(function() {
-    window.location.href = "https://sarahah-tob.blogspot.com/index.html?m=0&cc=1";
+$(".tw1").click(function() {
+    window.location.href = "https://curioscat-api.blogspot.com/?m=0&cc=1";
 });
 
 var footheight = $(".footer-x").outerHeight(true)
