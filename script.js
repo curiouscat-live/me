@@ -8,3 +8,4 @@ var footheight = $(".footer-x").outerHeight(true)
 $('.footer-x').css('margin-bottom', "-"+footheight+'px');
 
 });
+
