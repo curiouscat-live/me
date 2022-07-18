@@ -340,6 +340,18 @@ li
 
 
 @media screen and (min-width: 567px){
+/*     .footer-x
+    {
+        margin-bottom: 1px !important;
+    } */
+    
+/*     .boxing
+    {
+        margin-top: -1px !important;
+    } */
+}
+
+@media screen and (min-width: 567px){
     .footer-x
     {
         margin-bottom: 1px !important;
