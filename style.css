@@ -340,11 +340,15 @@ li
     display: block;
 }
 
-@media screen and (max-width: 567px){
+@media screen and (min-width: 567px){
     .footer-x
     {
         margin-bottom: 1px !important;
     }
+    
+}
+
+@media screen and (max-width: 567px){
     
     .boxing
     {
