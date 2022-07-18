@@ -336,7 +336,7 @@ li
     position: absolute;
     bottom: 0;
     width: 100%;
-    display: block;
+    display: none;
 }
 
 @media screen and (max-width: 567px){
