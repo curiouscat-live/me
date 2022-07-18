@@ -4,8 +4,8 @@ $(".tw1").click(function() {
     window.location.href = "https://curiouscat-api.blogspot.com/?m=0&cc=1";
 });
 
-var footheight = $(".footer-x").outerHeight(true)
-$('.footer-x').css('margin-bottom', "-"+footheight+'px');
+// var footheight = $(".footer-x").outerHeight(true)
+// $('.footer-x').css('margin-bottom', "-"+footheight+'px');
     
 });
 
