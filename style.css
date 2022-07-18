@@ -352,7 +352,7 @@ li
     } */
 }
 
-@media screen and (min-width: 567px){
+@media screen and (max-width: 567px){
     .footer-x
     {
         margin-bottom: 1px !important;
