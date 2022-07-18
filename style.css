@@ -346,20 +346,17 @@ li
         margin-top: -1px !important;
         border-radius: 0px !important;
     }
-    .footer-x
-    {
-        margin-bottom: -130px !important;
-    }
+  
 }
 
-
+/* 
 @media screen and (max-width: 416px){
     
     .footer-x
     {
         margin-bottom: -170px !important;
     }
-}
+} */
 
 
 .footx1
