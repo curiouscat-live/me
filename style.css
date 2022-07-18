@@ -105,9 +105,10 @@ img
 
 .logo1
 {
-    max-width: 450px;
+    max-width: 350px;
     text-align: center;
     display: inline-block;
+    margin-top:20px;
 }
 
 .logo1 img
