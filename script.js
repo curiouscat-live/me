@@ -6,7 +6,6 @@ $(".tw1").click(function() {
 
 var footheight = $(".footer-x").outerHeight(true)
 $('.footer-x').css('margin-bottom', "-"+footheight+'px');
-
     
 });
 
