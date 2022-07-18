@@ -343,6 +343,11 @@ li
     {
         margin-bottom: 1px !important;
     }
+    
+    .boxing
+    {
+        margin-top: -1px !important;
+    }
 }
 
 .footx1
