@@ -349,6 +349,7 @@ li
     .boxing
     {
         margin-top: -1px !important;
+        border-radius: 0px !important;
     }
 }
 
