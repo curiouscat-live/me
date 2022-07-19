@@ -257,6 +257,7 @@ img
     padding: 8px 16px;
     border-radius: 4px;
     cursor: pointer;
+    margin-top: 10px;
 }
 
 .btn1
@@ -265,7 +266,6 @@ img
     border: 1px solid #3b94d9;
     color: #fff;
     margin-left: 5px;
-    margin-top: 10px;
 }
 
 .btn2
